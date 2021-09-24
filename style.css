@@ -1,1 +1,8 @@
-Contact {background-color: blue}
+
+.Contact {text-align: center}
+body {border-style: solid}
+body {padding: 20px}
+body {background-color: lightgrey }
+
+.Contact {background-color: rgb(130,145,100)}
+.Contact {border: solid indigo}
