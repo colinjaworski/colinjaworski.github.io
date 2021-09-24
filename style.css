@@ -6,3 +6,6 @@ body {background-color: lightgrey }
 
 .Contact {background-color: rgb(130,145,100)}
 .Contact {border: solid indigo}
+
+.pic {height: 300px}
+.pic {padding-left: 25%}
