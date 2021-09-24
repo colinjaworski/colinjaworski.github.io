@@ -9,3 +9,4 @@ body {background-color: lightgrey }
 
 .pic {height: 50px}
 .pic {padding-left: 25%}
+.pic {max-width: 25%}
